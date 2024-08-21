@@ -1,0 +1,122 @@
+[
+    {
+        "professor": "Dr. Alan Thompson",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Dr. Thompson is an outstanding professor with deep knowledge in AI. His lectures are always engaging and informative."
+    },
+    {
+        "professor": "Prof. Emily Carter",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Prof. Carter is very knowledgeable, but her lectures can be a bit fast-paced at times. Still, she explains concepts well."
+    },
+    {
+        "professor": "Dr. Michael Smith",
+        "subject": "Data Structures",
+        "stars": 3,
+        "review": "Dr. Smith's classes are decent, but sometimes his explanations lack clarity. He is approachable for questions though."
+    },
+    {
+        "professor": "Prof. Laura Johnson",
+        "subject": "Computer Networks",
+        "stars": 5,
+        "review": "Prof. Johnson is an excellent lecturer who makes complex topics easy to understand. Highly recommended."
+    },
+    {
+        "professor": "Dr. Kevin Brown",
+        "subject": "Algorithms",
+        "stars": 2,
+        "review": "Dr. Brown's lectures are difficult to follow, and he rarely takes questions. Would not recommend."
+    },
+    {
+        "professor": "Prof. Sarah Wilson",
+        "subject": "Database Management",
+        "stars": 4,
+        "review": "Prof. Wilson is a good instructor. She provides practical examples that help in understanding the theory."
+    },
+    {
+        "professor": "Dr. James White",
+        "subject": "Software Engineering",
+        "stars": 5,
+        "review": "Dr. White is very knowledgeable and his real-world experience in software engineering is invaluable."
+    },
+    {
+        "professor": "Prof. Karen Lee",
+        "subject": "Operating Systems",
+        "stars": 3,
+        "review": "Prof. Lee's lectures are okay, but they could be more interactive. She knows the material well, though."
+    },
+    {
+        "professor": "Dr. Robert King",
+        "subject": "Computer Graphics",
+        "stars": 4,
+        "review": "Dr. King is a great professor, but his exams are tough. Make sure to study thoroughly."
+    },
+    {
+        "professor": "Prof. Linda Davis",
+        "subject": "Cybersecurity",
+        "stars": 5,
+        "review": "Prof. Davis is excellent. She makes the subject matter interesting and relevant to current industry trends."
+    },
+    {
+        "professor": "Dr. Steven Martinez",
+        "subject": "Human-Computer Interaction",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but his lectures can be a bit dry. The content is useful, though."
+    },
+    {
+        "professor": "Prof. Jessica Moore",
+        "subject": "Artificial Neural Networks",
+        "stars": 5,
+        "review": "Prof. Moore is an amazing professor with a deep understanding of neural networks. Her classes are a must-attend."
+    },
+    {
+        "professor": "Dr. Daniel Walker",
+        "subject": "Advanced Mathematics",
+        "stars": 2,
+        "review": "Dr. Walker's lectures are hard to follow, and he doesn't seem very approachable for questions."
+    },
+    {
+        "professor": "Prof. Rachel Hall",
+        "subject": "Cloud Computing",
+        "stars": 4,
+        "review": "Prof. Hall is a solid instructor with a clear teaching style. She is very responsive to emails and questions."
+    },
+    {
+        "professor": "Dr. Patrick Young",
+        "subject": "Big Data Analytics",
+        "stars": 5,
+        "review": "Dr. Young is a fantastic professor who is very passionate about big data. His classes are challenging but rewarding."
+    },
+    {
+        "professor": "Prof. Angela Turner",
+        "subject": "Quantum Computing",
+        "stars": 4,
+        "review": "Prof. Turner is great, but the subject matter is very complex. She does her best to make it understandable."
+    },
+    {
+        "professor": "Dr. Frank Harris",
+        "subject": "Software Testing",
+        "stars": 3,
+        "review": "Dr. Harris knows the subject well, but his teaching style is a bit monotonous. Still, the material is useful."
+    },
+    {
+        "professor": "Prof. Megan Scott",
+        "subject": "Parallel Computing",
+        "stars": 5,
+        "review": "Prof. Scott is fantastic! She makes parallel computing both fun and accessible."
+    },
+    {
+        "professor": "Dr. Brian Baker",
+        "subject": "Computational Theory",
+        "stars": 3,
+        "review": "Dr. Baker's lectures are okay, but they can be a bit dry. He is very thorough, though."
+    },
+    {
+        "professor": "Prof. Amanda Green",
+        "subject": "Natural Language Processing",
+        "stars": 4,
+        "review": "Prof. Green is very knowledgeable and presents NLP concepts clearly. Her assignments are challenging but fair."
+    }
+]

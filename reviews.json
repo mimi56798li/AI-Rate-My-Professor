@@ -1,4 +1,5 @@
-[
+{ 
+    "reviews":[
     {
         "professor": "Dr. Alan Thompson",
         "subject": "Artificial Intelligence",
@@ -119,4 +120,5 @@
         "stars": 4,
         "review": "Prof. Green is very knowledgeable and presents NLP concepts clearly. Her assignments are challenging but fair."
     }
-]
+  ]
+}
